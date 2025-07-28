@@ -37,7 +37,8 @@ Histórico de transações com timestamp completo (data, hora, minuto, segundo)
 Menu console interativo (BancoApp no pacote app)
 
 
-O sistema utiliza repositórios em memória para contar e investir, com lógica separada em serviços, e armazenamento dos dados temporariamente enquanto o programa roda.
+O sistema utiliza repositórios em memória para contas e investimento, com lógica separada em serviços, e armazenamento dos dados temporariamente enquanto o programa roda.
+
 
 
 
@@ -77,9 +78,6 @@ O sistema utiliza repositórios em memória para contar e investir, com lógica 
 
 
 
-DepositoServiceTest.java	src/test/java/com/seuNome/service	Testes unitários JUnit 5 para a lógica de depósitos, cobrindo cenários em horários diferentes e feriados. Simula LocalDateTime para validar regras.
-
-
 
 🚀 **Visão Geral do Fluxo do Sistema**
 
@@ -102,9 +100,33 @@ DepositoServiceTest.java	src/test/java/com/seuNome/service	Testes unitários JUn
 
 
 
+🧠 **Conceitos de Aprendizado Demonstrados**
+
+**OOP:** classes abstratas, Conta, subclasses para tipos de conta, enums (TipoConta, TipoTransacao, TipoDeposito)
+
+**Encapsulamento:** uso de private, métodos de acesso, record para Transacao
+
+**Polimorfismo e abstração**, composição com Transacao e repositórios
+
+**Repositórios em memória** para contas e investimentos
+
+**Regras de lógica temporal** (DayOfWeek, LocalTime, feriados customizáveis)
+
+**Menu de console** com Scanner, validações e fluxo interativo
+
+**Documentação interna** nos métodos (via comentários) 
 
 
 
+⚙️ **Tecnologias**
+
+**Linguagem:** **Java 17+**
+
+**Data/hora:** java.time (LocalDate, LocalTime, LocalDateTime)
+
+**Estrutura de dados:** List, Map, etc.
+
+**Lógica de menu** com Scanner e switch-case
 
 
 

@@ -1,0 +1,6 @@
+package com.sergioSantos.domain;
+public enum TipoDeposito {
+    BOCA_CAIXA_CHEQUE, BOCA_CAIXA_DINHEIRO,
+    CAIXA_ELETRONICO_ENVELOPE, CAIXA_ELETRONICO_DINHEIRO,
+    CAIXA_ELETRONICO_CHEQUE
+}

@@ -131,3 +131,14 @@ O sistema utiliza repositórios em memória para contas e investimento, com lóg
 
 
 
+
+
+
+
+
+
+
+
+📄 **Licença**
+
+Este projeto está licenciado sob a MIT License — **veja o arquivo LICENSE** para mais detalhes — uma licença permissiva e comum em projetos open‑source  .

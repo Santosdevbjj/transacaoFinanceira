@@ -149,10 +149,5 @@ Este projeto está licenciado sob a MIT License — **veja o arquivo LICENSE** p
 
 
 
-# 🏦 BancoPOO – Sistema Bancário em Java (Console)
-
-(https://github.com/Santosdevbjj/transacaoFinanceira/actions/workflows/ci.yml/badge.svg)](https://github.com/Santosdevbjj/transacaoFinanceira/actions)
-[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 

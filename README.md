@@ -158,3 +158,12 @@ Este projeto está sob licença MIT — consulte o arquivo LICENSE.
 - Autenticação por PIN
 - Relatórios/exportação CSV
 
+
+
+
+
+![Java Version](https://img.shields.io/badge/java-17+-blue.svg) 
+
+
+
+

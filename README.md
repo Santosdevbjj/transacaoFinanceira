@@ -141,4 +141,18 @@ O sistema utiliza repositórios em memória para contas e investimento, com lóg
 
 📄 **Licença**
 
-Este projeto está licenciado sob a MIT License — **veja o arquivo LICENSE** para mais detalhes — uma licença permissiva e comum em projetos open‑source  .
+Este projeto está licenciado sob a MIT License — **veja o arquivo LICENSE** para mais detalhes — uma licença permissiva e comum em projetos open‑source.
+
+
+
+
+
+
+
+# 🏦 BancoPOO – Sistema Bancário em Java (Console)
+
+[![Build Status](https://github.com/Santosdevbjj/transacaoFinanceira/actions/workflows/ci.yml/badge.svg)](https://github.com/Santosdevbjj/transacaoFinanceira/actions)
+[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+

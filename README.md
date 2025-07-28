@@ -149,5 +149,12 @@ Este projeto está licenciado sob a MIT License — **veja o arquivo LICENSE** p
 
 
 
+## 📝 Licença
+Este projeto está sob licença MIT — consulte o arquivo LICENSE.
 
+## 🙌 Contribuições e melhorias
+- Adicionar GUI (JavaFX/Swing)
+- Persistência real (JSON/SQLite)
+- Autenticação por PIN
+- Relatórios/exportação CSV
 

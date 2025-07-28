@@ -1,6 +1,6 @@
 package com.sergioSantos.app;
 
-import com.sergioSantod.domain.*;
+import com.sergioSantos.domain.*;
 import com.sergioSantos.repository.*;
 import com.sergioSantos.service.*;
 

@@ -165,5 +165,13 @@ Este projeto está sob licença MIT — consulte o arquivo LICENSE.
 ![Java Version](https://img.shields.io/badge/java-17+-blue.svg) 
 
 
+---
+
+**Contato:**
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+---
 
 
